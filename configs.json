@@ -1,0 +1,101 @@
+{
+    "calli": {
+        "tag": "mori_calliope",
+        "download_folder": "calli_images"
+    },
+
+    "kiara": {
+        "tag": "takanashi_kiara",
+        "download_folder": "kiara_images"
+    },
+
+    "ina": {
+        "tag": "ninomae_ina'nis",
+        "download_folder": "ina_images"
+    },
+
+    "gura": {
+        "tag": "gawr_gura",
+        "download_folder": "gura_images"
+    },
+
+    "ame": {
+        "tag": "watson_amelia",
+        "download_folder": "ame_images"
+    },
+
+    "irys": {
+        "tag": "irys_(hololive)",
+        "download_folder": "irys_images"
+    },
+
+    "kronii": {
+        "tag": "ouro_kronii",
+        "download_folder": "kronii_images"
+    },
+
+    "mumei": {
+        "tag": "nanashi_mumei",
+        "download_folder": "mumei_images"
+    },
+
+    "bae": {
+        "tag": "hakos_baelz",
+        "download_folder": "bae_images"
+    },
+
+    "fauna": {
+        "tag": "ceres_fauna",
+        "download_folder": "fauna_images"
+    },
+
+    "sana": {
+        "tag": "tsukumo_sana",
+        "download_folder": "sana_images"
+    },
+
+    "shiori": {
+        "tag": "shiori_novella",
+        "download_folder": "shiori_images"
+    },
+
+    "biboo": {
+        "tag": "koseki_bijou",
+        "download_folder": "biboo_images"
+    },
+
+    "nerissa": {
+        "tag": "nerissa_ravencroft",
+        "download_folder": "nerissa_images"
+    },
+
+    "fuwawa": {
+        "tag": "fuwawa_abyssgard",
+        "download_folder": "fuwawa_images"
+    },
+
+    "mococo": {
+        "tag": "mococo_abyssgard",
+        "download_folder": "mococo_images"
+    },
+
+    "erb": {
+        "tag": "elizabeth_rose_bloodflame",
+        "download_folder": "erb_images"
+    },
+
+    "gigi": {
+        "tag": "gigi_murin",
+        "download_folder": "gigi_images"
+    },
+
+    "ceci": {
+        "tag": "cecilia_immergreen",
+        "download_folder": "ceci_images"
+    },
+
+    "raora": {
+        "tag": "raora_panthera",
+        "download_folder": "raora_images"
+    }
+}
